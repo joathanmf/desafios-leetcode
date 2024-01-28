@@ -1,3 +1,8 @@
+// 44. Wildcard Matching
+// https://leetcode.com/problems/wildcard-matching/
+
+// Errado
+
 fn is_match(s: String, p: String) -> bool {
     let mut count = 0; 
 
